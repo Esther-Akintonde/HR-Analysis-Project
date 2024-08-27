@@ -19,10 +19,12 @@ EDA involved exploring the Human Resource data to answer key questions, such as:
 - What is the total salary paid till date?
 
 ### Data Analysis
-DAX in MS Excel used to answer key questions and generate insight
+Data Analytic Expression (DAX) in MS Excel used to answer key questions and generate insight
 
+1. Total Employee 
 ~~~Excel
 =COUNT(Employee[ID_employe])
 ~~~
+![image](https://github.com/user-attachments/assets/32aeb594-159d-461d-b86f-95db58bc0ae8)
 
 
