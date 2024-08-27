@@ -1,6 +1,7 @@
 # HR Analysis Project
 
 ### Project Overview
+---
 This data analysis project aims to provide insights into the Human resource data of a company for over one decade. By analyzing various aspects of the HR data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the effect of human resource on the company's performance.
 
 ![HR Analytics New Dashboard](https://github.com/user-attachments/assets/bf5776c6-e810-4d6b-914c-08840011507f)
