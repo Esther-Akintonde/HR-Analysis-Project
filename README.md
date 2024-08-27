@@ -3,10 +3,13 @@
 ### Project Overview
 This data analysis project aims to provide insights into the Human resource data of a company for over one decade. By analyzing various aspects of the HR data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the effect of human resource on the company's performance.
 
-### Data Sources
-HR Data: The primary dataset used for this analysis is the "Hr Analysis Dataset.xlsx" file, containing detailed Human resource information of each employee of the company.
+![HR Analytics New Dashboard](https://github.com/user-attachments/assets/bf5776c6-e810-4d6b-914c-08840011507f)
 
-### Tools
+### Data Sources
+HR Data: The primary dataset used for this analysis is the "[Hr Analytics Dataset.xlsx](https://github.com/user-attachments/files/16765883/Hr.Analytics.Dataset.xlsx)" file, containing detailed Human resource information of each employee of the company.
+
+### Tools[Hr Analytics Dataset.xlsx](https://github.com/user-attachments/files/16765883/Hr.Analytics.Dataset.xlsx)
+
 - Ms Excel - Data Cleaning, Data Analysis and Data Visualization
   - [Download here](https://microsoft.com)
 
