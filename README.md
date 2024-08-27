@@ -68,7 +68,7 @@ The analysis results are summarized as follows:
 1. Majoriy of the employee have a bachelors degree which is equivalent to 40% of the total employee.
 2. We realized that the rate of Job satisfaction in the organization is very high, with low number of employee not satisfied with their job.
 3. The highest number of employer termination was recorded in 2021 to be 53 with a termination rate of 44.17% which can be concluded to be the effect of Covid 19 outbreak in 2020.
-4.  Majority of the Employees have a better worklife Balance at 62.1%, while others are good 23.2%, Best at 10.2% and bad Worklife balance at 4.5%
+4.  Majority of the Employees have a **better** worklife Balance at 62.1%, while others are **good** 23.2%, **best** at 10.2% and **bad** Worklife balance at 4.5%
 
 ### Recommendations
 Based on the analysis, we recommend the following actions:
