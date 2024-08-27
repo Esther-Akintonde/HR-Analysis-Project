@@ -7,7 +7,8 @@ This data analysis project aims to provide insights into the Human resource data
 HR Data: The primary dataset used for this analysis is the "Hr Analysis Dataset.xlsx" file, containing detailed Human resource information of each employee of the company.
 
 ### Tools
-Ms Excel - Data Cleaning, Data Analysis and Data Visualization
+- Ms Excel - Data Cleaning, Data Analysis and Data Visualization
+  - [Download here](https://microsoft.com)
 
 ### Exploratory Data Analysis
 EDA involved exploring the Human Resource data to answer key questions, such as:
