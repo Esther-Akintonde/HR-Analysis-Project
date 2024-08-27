@@ -8,7 +8,7 @@ This data analysis project aims to provide insights into the Human resource data
 ### Data Sources
 HR Data: The primary dataset used for this analysis is the "[Hr Analytics Dataset.xlsx](https://github.com/user-attachments/files/16765883/Hr.Analytics.Dataset.xlsx)" file, containing detailed Human resource information of each employee of the company.
 
-### Tools[Hr Analytics Dataset.xlsx](https://github.com/user-attachments/files/16765883/Hr.Analytics.Dataset.xlsx)
+### Tools
 
 - Ms Excel - Data Cleaning, Data Analysis and Data Visualization
   - [Download here](https://microsoft.com)
@@ -76,6 +76,7 @@ Based on the analysis, we recommend the following actions:
 2. Employees should be encouraged to increase their education even after employment, this makes the employee more productive and in turn increase the profitability of the organization.
 3. The company should seek to explore other employment types to reduce voluntary attrition by employees especially for employees that contribute effectively to the growth of the company. The company should look into hybrid and remote type of employment.
 
-
+😄
+💻
 
 
