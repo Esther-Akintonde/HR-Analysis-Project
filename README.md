@@ -70,7 +70,7 @@ Based on the analysis, we recommend the following actions:
 
 1. The reason for average satisfaction in work life balance of employees should be investigated as just 10.2% of employees have the best worklife balance.
 2. Employees should be encouraged to increase their education even after employment, this makes the employee more productive and in turn increase the profitability of the organization.
-3. 
+3. The company should seek to explore other employment types to reduce voluntary attrition by employees especially for employees that contribute effectively to the growth of the company. The company should look into hybrid and remote type of employment.
 
 
 
