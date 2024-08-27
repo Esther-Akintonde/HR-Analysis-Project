@@ -1,2 +1,3 @@
-# HR-Analysis-Project
-. 
+# HR Analysis Project
+
+### Project Overview
