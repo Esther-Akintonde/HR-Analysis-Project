@@ -57,5 +57,13 @@ Listed below are some Data Analytics Expression (DAX) used in PivotTable Analyze
 ~~~
 ![image](https://github.com/user-attachments/assets/9520f49b-49f5-4e70-b90a-9be3f28ad466)
 
+Results/Findings
+The analysis results are summarized as follows:
+
+1. Majoriy of the employee has a bachelors degree which is equivalent to 40% of the total employee.
+2. We realized that the rate of Job satisfaction in the organization is very high, with low number of employee not satisfied with their job.
+3. The highest number of employer termination was recorded in 2021 to be 53 with a termination rate of 44.17% which can be concluded to be the effect of Covid 19 outbreak in 2020.
+4.  Majority of the Employees have a better worklife Balance at 62.1%, while others are good 
+
 
 
