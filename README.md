@@ -12,9 +12,17 @@ Ms Excel - Data Cleaning, Data Analysis and Data Visualization
 ### Exploratory Data Analysis
 EDA involved exploring the Human Resource data to answer key questions, such as:
 
--What is the total number of employee since inception?
--What is the total number of current employee?
--What is the total number of terminated employee?
--What is the employee termination rate?
--What is the total salary paid till date?
+- What is the total number of employee since inception?
+- What is the total number of current employee?
+- What is the total number of terminated employee?
+- What is the employee termination rate?
+- What is the total salary paid till date?
+
+### Data Analysis
+DAX in MS Excel used to answer key questions and generate insight
+
+~~~Excel
+=COUNT(Employee[ID_employe])
+~~~
+
 
