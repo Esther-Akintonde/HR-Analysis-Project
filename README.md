@@ -16,15 +16,46 @@ EDA involved exploring the Human Resource data to answer key questions, such as:
 - What is the total number of current employee?
 - What is the total number of terminated employee?
 - What is the employee termination rate?
-- What is the total salary paid till date?
+- What is the total salary paid?
 
 ### Data Analysis
-Data Analytic Expression (DAX) in MS Excel used to answer key questions and generate insight
+Listed below are some Data Analytics Expression (DAX) used in PivotTable Analyze of MS Excel to answer key questions and generate insights from data.
 
-1. Total Employee 
+1. Total Employee since inception
 ~~~Excel
 =COUNT(Employee[ID_employe])
 ~~~
 ![image](https://github.com/user-attachments/assets/32aeb594-159d-461d-b86f-95db58bc0ae8)
+
+2. Current Employee Head Count 
+~~~Excel
+=CALCULATE([Total Employee],Employee[Attrition]="No")
+~~~
+![image](https://github.com/user-attachments/assets/536f1697-9bcb-4a26-b0c4-b0a99ad96435)
+
+3. Terminated Employee Count 
+~~~Excel
+=CALCULATE(Employee[Total Employee],Employee[Attrition]="yes")
+~~~
+![image](https://github.com/user-attachments/assets/b096c3d7-c4bf-4ef4-95ba-97a1d1a55def)
+
+4. Total Salary Current Employee 
+~~~Excel
+=CALCULATE(SUM(Employee[Salary]), Employee[Attrition]="No")
+~~~
+![image](https://github.com/user-attachments/assets/378342a6-6cd1-442e-a2e8-a96a12f44f2a)
+
+5. Total Salary all Employee 
+~~~Excel
+=SUM(Employee[Salary])
+~~~
+![image](https://github.com/user-attachments/assets/a816f3f5-b5b7-4eb2-bb08-da7e02618db4)
+
+6. Employee Termination Rate 
+~~~Excel
+=[Termination]/[Head Count]
+~~~
+![image](https://github.com/user-attachments/assets/9520f49b-49f5-4e70-b90a-9be3f28ad466)
+
 
 
